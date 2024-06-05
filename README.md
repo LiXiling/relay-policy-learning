@@ -3,6 +3,9 @@
 This is a set of environments and associated data for use with MuJoCo in a kitchen simulator.
 The code instantiates a kitchen environment and parses associated demonstrations. 
 
+### Forked from https://github.com/google-research/relay-policy-learning
+Now compatible with gymnasium==v0.29
+
 ## Getting Started (User)
 
 1. Clone the repository
